@@ -1,6 +1,0 @@
-Name = 'ABC'
-SID = '2110XXXX'
-Branch = 'XYZ'
-CGPA = '9.9'
-Intro = 'Hey , {} here!\nMy SID is {}\nI am from {} Department and my CGPA is {}'
-print(Intro.format(Name,SID,Branch,CGPA))
